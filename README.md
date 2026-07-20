@@ -100,4 +100,4 @@ The robot moves when it detects the black line and stops when it detects a white
 
 Computer Science & Artificial Intelligence Student
 Interested in AI, Robotics, and Embedded Systems.
-# Arduino_Line_Follower_Obstacle_Avoidance
+
